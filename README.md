@@ -1,4 +1,4 @@
-# coderetreat
+<h2># Coderetreat</h2>
 
 Coderetreat is a practice event, focusing on the fundamentals of software development and design.
 
@@ -10,7 +10,7 @@ Practiced proble: Game of Life
 
 Setting up test env
 
--PyTest
--NUnit
--GTest
--Junit
+- PyTest
+- NUnit
+- GTest
+- Junit
