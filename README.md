@@ -6,11 +6,11 @@ By providing developers the opportunity to take part in focused practice, away f
 
 Practicing the basic principles of modular and object-oriented design, developers can improve their ability to write code that minimizes the cost of change over time. (taking from www.coderetreat.org)
 
-Practiced proble: Game of Life
+Practice problem: Game of Life
 
 Setting up test env
 
 - PyTest
 - NUnit
 - GTest
-- Junit
+- JUnit
